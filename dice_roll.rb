@@ -1,3 +1,3 @@
 def roll
-  puts rand*6 # 1-6
+puts rand (6)
 end
