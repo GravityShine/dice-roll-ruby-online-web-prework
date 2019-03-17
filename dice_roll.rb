@@ -1,3 +1,3 @@
 def roll
-puts rand (6)
+puts rand (1...6)
 end
